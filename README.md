@@ -4,7 +4,7 @@ The pytorch implementation of paper "Rethinking Multi-View Fusion for Urban Repr
 
 ## Framework
 <div align=center>
-<img src="Framework.pdf"/>
+<img src="Framework.png"/>
 </div>
 
 We will make the code and datasets publicly available upon acceptance.
