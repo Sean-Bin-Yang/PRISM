@@ -1,0 +1,10 @@
+# Rethinking Multi-View Fusion for Urban Representation Learning
+
+The pytorch implementation of paper "Rethinking Multi-View Fusion for Urban Representation Learning".
+
+## Framework
+<div align=center>
+<img src="framework.png"/>
+</div>
+
+We will make the code and datasets publicly available upon acceptance.
