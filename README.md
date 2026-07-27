@@ -8,7 +8,7 @@ The pytorch implementation of paper "Rethinking Multi-View Fusion for Urban Repr
 </div>
 
 
-#### 1. Requirements
+### Requirements
 
 Given a python environment, install the dependencies with the following command:
 
