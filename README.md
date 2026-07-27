@@ -1,6 +1,6 @@
 # Rethinking Multi-View Fusion for Urban Representation Learning
 
-The pytorch implementation of paper "Rethinking Multi-View Fusion for Urban Representation Learning". We will make the code and datasets publicly available upon acceptance.
+The pytorch implementation of paper "Rethinking Multi-View Fusion for Urban Representation Learning". 
 
 ## Framework
 <div align=center>
@@ -8,3 +8,18 @@ The pytorch implementation of paper "Rethinking Multi-View Fusion for Urban Repr
 </div>
 
 
+#### 1. Requirements
+
+Given a python environment, install the dependencies with the following command:
+
+```shell
+pip install -r requirements.txt
+```
+
+### Training
+
+You can train **PRISM** through the following commands：
+```shell
+chmod +x ./run.sh
+./run.sh
+```
