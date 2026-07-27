@@ -8,7 +8,7 @@ The pytorch implementation of paper "Rethinking Multi-View Fusion for Urban Repr
 </div>
 
 
-### Requirements
+## Requirements
 
 Given a python environment, install the dependencies with the following command:
 
@@ -16,7 +16,7 @@ Given a python environment, install the dependencies with the following command:
 pip install -r requirements.txt
 ```
 
-### Training
+## Training
 
 You can train **PRISM** through the following commands：
 ```shell
